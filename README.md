@@ -1,2 +1,2 @@
 # Temi-s-kitchen
-Javen based Food service application
+Jave based Food service application
